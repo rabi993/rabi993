@@ -25,6 +25,15 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rabi993&" alt="rabi993" /></p>
 
+ ## Github Stats
+
+| Top Languages | GitHub Stats | GitHub Streak |
+|:---:|:---:|:---:|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=rabi993&show_icons=true&locale=en&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rabi993&show_icons=true&locale=en) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rabi993&) |
+
+
+
+
 ## Contact
 Feel free to reach out to me or connect with me on  [Linkedin](https://www.linkedin.com/in/rabiul-islam-1482aa287/)
 
