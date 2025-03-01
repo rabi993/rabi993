@@ -24,3 +24,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rabi993&show_icons=true&locale=en" alt="rabi993" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rabi993&" alt="rabi993" /></p>
+
+## Contact
+Feel free to reach out to me or connect with me on  [Linkedin](https://www.linkedin.com/in/rabiul-islam-1482aa287/)
+
+You can also find me on:
+
+- **Email**: rabi.21.pust@gmail.com
+- **Linkedin**: [Click Here](https://www.linkedin.com/in/rabiul-islam-1482aa287/)
+- **Facebook** : [Click Here](https://www.facebook.com/rabuil.islam.965)
+
+
+Let's connect and discuss exciting opportunities!
