@@ -1,9 +1,9 @@
 ![logo](https://github.com/rabi993/rabi993/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Md Rabiul Islam</h1>
 <h3 align="center">A passionate software developer from Bangladesh</h3>
-<h4>I have completed B.Sc Engg. in Computer Science & Engineering (<b>CSE</b>) at Pabna University of Science and Technology (<b>PUST</b>) . I am a <b>Full Stack Web Developer<b> from Bogura, Bangladesh. I have rich experience in web application development using Django and React.js.</h4>
+<h4>I have completed B.Sc Engg. in Computer Science & Engineering (<b>CSE</b>) at Pabna University of Science and Technology (<b>PUST</b>) . I am a <b>Full Stack Web Developer<b> from Bogura, Bangladesh. I have rich experience in web application development using Django.</h4>
 
-- 🌱 I’m currently learning **Django, React.js**
+- 🌱 I’m currently learning **Django**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
