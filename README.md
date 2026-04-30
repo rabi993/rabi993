@@ -10,7 +10,7 @@
   <a href="https://twitter.com/rabiuli74054263" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" style="margin:0 8px;"/>
   </a>
-  <a href="https://linkedin.com/in/rabiul-islam-1482aa287" target="_blank">
+  <a href="https://linkedin.com/in/rabiul-islam-1482aa287" target="_blank" style="margin:0 8px;" >
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" style="margin:0 8px;"/>
   </a>
   <a href="https://fb.com/rabuilislam.965" target="_blank">
