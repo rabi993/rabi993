@@ -7,25 +7,25 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/rabiuli74054263" target="_blank">
+  <a href="https://twitter.com/rabiuli74054263" target="_blank" style="margin: 0 12px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" style="margin:0 8px;"/>
   </a>
-  <a href="https://linkedin.com/in/rabiul-islam-1482aa287" target="_blank"  >
+  <a href="https://linkedin.com/in/rabiul-islam-1482aa287" target="_blank" style="margin: 0 12px;" >
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" style="margin:0 18px;"/>
   </a>
-  <a href="https://fb.com/rabuilislam.965" target="_blank">
+  <a href="https://fb.com/rabuilislam.965" target="_blank" style="margin: 0 12px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" style="margin:0 8px;"/>
   </a>
-  <a href="https://instagram.com/rabiul_islam85" target="_blank">
+  <a href="https://instagram.com/rabiul_islam85" target="_blank" style="margin: 0 12px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" style="margin:0 8px;"/>
   </a>
-  <a href="https://www.hackerrank.com/rabi_21_pust" target="_blank">
+  <a href="https://www.hackerrank.com/rabi_21_pust" target="_blank" style="margin: 0 12px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" style="margin:0 8px;"/>
   </a>
-  <a href="https://codeforces.com/profile/rabi993" target="_blank">
+  <a href="https://codeforces.com/profile/rabi993" target="_blank" style="margin: 0 12px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" style="margin:0 8px;"/>
   </a>
-  <a href="https://www.leetcode.com/user7968ij" target="_blank">
+  <a href="https://www.leetcode.com/user7968ij" target="_blank" style="margin: 0 12px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" style="margin:0 8px;"/>
   </a>
 </p>
