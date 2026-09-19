@@ -1,8 +1,8 @@
 
 ![logo](https://github.com/rabi993/rabi993/blob/main/githubBanner199.png)
 <h1 align="center">Hi 👋, I'm Md Rabiul Islam</h1>
-<h3 align="center">A passionate software developer from Bangladesh</h3>
-<h4>I have completed B.Sc Engg. in Computer Science & Engineering (<b>CSE</b>) at Pabna University of Science and Technology (<b>PUST</b>) . I am a <b>Backend Web Developer<b> from Bogura, Bangladesh. I have rich experience in web application development using Django.</h4>
+<h3 align="center">A passionate Python/Django Developer from Bangladesh</h3>
+<h4>I have completed B.Sc Engg. in Computer Science & Engineering (<b>CSE</b>) at Pabna University of Science and Technology (<b>PUST</b>) . I am a <b>Python/Django Developer<b> from Bogura, Bangladesh. I have rich experience in web application development using Django.</h4>
 
 - 🌱 I’m currently learning **Django**
 
